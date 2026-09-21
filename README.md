@@ -1,6 +1,6 @@
- ##Marketing Funnel & Conversion Performance Analysis
+# Marketing Funnel & Conversion Performance Analysis
 
-##Project Overview
+## Project Overview
 This project analyzes a bank marketing campaign dataset to understand customer response and conversion performance across different campaign segments.
 
 ## Objectives
